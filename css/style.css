@@ -1,0 +1,7 @@
+.jumbotron
+{
+background-image:url('../bg.png');
+background-attachment:fixed;
+min-height:500px;
+margin-bottom:0px;
+}
