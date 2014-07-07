@@ -5,3 +5,15 @@ background-attachment:fixed;
 min-height:500px;
 margin-bottom:0px;
 }
+
+.alt1
+{
+background:#eee;
+min-height:400px;
+}
+
+.padding
+{
+padding-top:20px;
+padding-bottom:20px;
+}
